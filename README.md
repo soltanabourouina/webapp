@@ -1,4 +1,4 @@
-# jsau-webapp
+# webapp
 
 ## Project setup
 ```
